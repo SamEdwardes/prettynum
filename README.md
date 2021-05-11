@@ -2,6 +2,9 @@
 
 Simple number formatting for python inspired by the [scales](https://scales.r-lib.org/index.html) package in R.
 
+- GitHub: [https://github.com/SamEdwardes/prettynum](https://github.com/SamEdwardes/prettynum)
+- PyPi:  [https://pypi.org/project/prettynum/](https://pypi.org/project/prettynum/)
+
 ## Usage
 
 ```python

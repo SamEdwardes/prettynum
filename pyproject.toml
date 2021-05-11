@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Simple number formatting for python"
 authors = ["SamEdwardes <edwardes.s@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/SamEdwardes/prettynum"
+license = "MIT"
+keywords = ["python", "formatting"]
 
 [tool.poetry.dependencies]
 python = "^3.5"
